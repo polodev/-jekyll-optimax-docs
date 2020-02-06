@@ -1,0 +1,23 @@
+<div id="meanmenu"></div>
+<div class="col-left">
+	<div class="left-menu" style="padding-bottom: 30px;">
+		<h2 style="padding-top: 20px;"><img alt="" src="{{ 'assets/images/koncrete_theme/identity/logo.png' | relative_url }}"></h2>
+    <div class="navigation">
+      <ul>
+        {%assign posts = site.posts | sort: 'number'  %}
+        {% for post in posts %}
+          <li>
+            <a href="#{{post.page_id}}">{{post.number}}. {{post.title}}</a>
+            {% if post.has_sub %}
+            <ul>
+              {% include sidebartoc.html html=post.content %}
+            </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+	</div>
+
+
+</div>
