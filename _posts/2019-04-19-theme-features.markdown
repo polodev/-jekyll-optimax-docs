@@ -119,19 +119,19 @@ NB: If you can't see the field `CSS Classes`, you have to enable it first. To do
 You can change footer copyright text and toggle copyright option from footer settings. To change footer copyright info
 navigate to `Appearance > Theme Options`. Then go to `Footer` tab.
 
-<img alt="koncrete theme footer change" src="{{ 'assets/images/optimax_theme/theme-features/tf.8.1.jpg' | relative_url }}">
+<img alt="optimax theme footer change" src="{{ 'assets/images/optimax_theme/theme-features/tf.8.1.jpg' | relative_url }}">
 
 After changing the settings, Click on `Save Changes` button.
 
 To change footer background color, text color, Link color, Hover color navigate to `Appearance > Theme Options`. Then go to `Colors` tab.
 
-<img alt="koncrete theme footer colors option" src="{{ 'assets/images/optimax_theme/theme-features/tf.8.2.jpg' | relative_url }}">
+<img alt="optimax theme footer colors option" src="{{ 'assets/images/optimax_theme/theme-features/tf.8.2.jpg' | relative_url }}">
 
 After changing the settings, Click on `Save Changes` button.
 
 To set up footer widgets, navigate to `Appearance > Widgets`. Here you can find available footer widget areas.
 
-<img alt="koncrete theme footer widget" src="{{ 'assets/images/optimax_theme/theme-features/tf.8.3.jpg' | relative_url }}">
+<img alt="optimax theme footer widget" src="{{ 'assets/images/optimax_theme/theme-features/tf.8.3.jpg' | relative_url }}">
 
 ### 4.10| Typography
 

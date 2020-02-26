@@ -15,7 +15,7 @@ Want to build your site like the demo? You can do it by only one click!
 
 ### 3.1 | Auto Import
 
-First please make sure that Koncrete Parent Theme is activated on your site.
+First please make sure that Optimax Parent Theme is activated on your site.
 
 From Admin menu, navigate to `Tools > Demo Content Install`. Or alternatively,  navigate to `Plugins > RT Demo Importer > Install Demo Contents`.
 

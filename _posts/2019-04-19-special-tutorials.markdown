@@ -25,11 +25,11 @@ _Step 3:_**   Please submit some dummy forms from Contact page to make sure that
 
 ### 19.2| Translating Theme
 
-You can translate this theme to another language easily. You actually have to translate two things for your website to work properly: `Koncrete` theme and `Koncrete Core` plugin. This plugin plays a major role in theme functionality, so if you don't translate this plugin along with the theme you can't be able to get the full translation.
+You can translate this theme to another language easily. You actually have to translate two things for your website to work properly: `Optimax` theme and `Optimax Core` plugin. This plugin plays a major role in theme functionality, so if you don't translate this plugin along with the theme you can't be able to get the full translation.
 
 There are many tools available for translation. But the easiest way is to use plugin `Loco Translate`. Using this plugin, you can literally translate any WordPress themes or plugins if it supports translation.
 
-_Note: Please remember, if you update the theme later your translations might be gone if they are stored inside theme/plugin. So please keep a backup of **Koncrete** theme and **Koncrete Core** plugin first before updating theme._
+_Note: Please remember, if you update the theme later your translations might be gone if they are stored inside theme/plugin. So please keep a backup of **Optimax** theme and **Optimax Core** plugin first before updating theme._
 {: .text-danger}
 
 
@@ -60,9 +60,9 @@ Here's a quick video tutorial explaining this method:
 #### Method 2: By Uploading zip File
 1. From WordPress Admin Panel, Navigate to `Appearance > Themes`.
 1. Activate any other theme (eg. Twenty Seventeen) than the current one.
-1. Delete `Koncrete` Theme.
+1. Delete `Optimax` Theme.
 1. Now you have to upload the updated theme zip file. To do this, Navigate to `Appearance > Themes > Add New > Upload`. Go to browse, and select the zipped theme folder. Hit "Install Now" and the theme will be uploaded and installed.
 
 #### Method 3: By FTP
-1. Using your FTP client, navigate to `/wp-content/themes/` folder on your server and delete the `Koncrete` folder from there.
+1. Using your FTP client, navigate to `/wp-content/themes/` folder on your server and delete the `Optimax` folder from there.
 1. Now upload the latest non-zipped theme folder into that `/wp-content/themes/` folder .

@@ -22,7 +22,7 @@ We have provided some sample contents inside "sample-data" directory which comes
   <img src="{{ 'assets/images/optimax_theme/84.jpg' | relative_url }}">
 
 * **Importing options**: First open the file `options.json` in any text editor and copy the whole contents.
-  Now from Admin menu, navigate to `Appearance > Koncrete Options`, then go to `import/Export` tab.
+  Now from Admin menu, navigate to `Appearance > Optimax Options`, then go to `import/Export` tab.
   From there click on `Import from file` option.
   A textbox will appear, paste the copied contents on that textbox and click on "Import" button.
   <img src="{{ 'assets/images/optimax_theme/2.jpg' | relative_url }}">
